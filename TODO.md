@@ -24,14 +24,16 @@ source : https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse
 We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) system and the synergetic behaviour it exhibits.*
 
 
-## BleuStreak Components
+## BlueStreak Components
 
 **1. BlueStreakCore**
 
-///Summary///
-///A Dot.net library - Contains all the methods and data types that can other .net libraries can wrap around.
-///It handles all the communication and data fetching and management from the coinmarketcap API.
-///Summary
+*Summary*
+
+A Dot.net library - Contains all the methods and data types that can other .net libraries can wrap around.
+It handles all the communication and data fetching and management from the coinmarketcap API.
+
+*SummaryEnd*
 
 *To DO:*
 
@@ -48,10 +50,10 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 
 **2. BlueStreakGH**
 
-///Summary///
-///A wrapper around the BlueStreakCore library
-///It provides the necessary UI inteface to visualise the cryptocurrency markets within GH.
-///Summary
+*Summary*
+A wrapper around the BlueStreakCore library.
+It provides the necessary UI inteface to visualise the cryptocurrency markets within GH.
+*SummaryEnd*
 
 *To DO:*
 
@@ -65,10 +67,12 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 
 **3. BlueStreakDynamo**
 
-///Summary///
-///A wrapper around the BlueStreakCore library
-///It provides the necessary UI inteface to visualise the cryptocurrency markets within DynamoBIM.
-///Summary
+*Summary*
+
+A wrapper around the BlueStreakCore library.
+It provides the necessary UI inteface to visualise the cryptocurrency markets within DynamoBIM.
+
+*SummaryEnd*
 
 *To DO:*
 
