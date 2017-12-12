@@ -1,30 +1,30 @@
-#Project BlueStreak
+# Project BlueStreak
 
-##December 2017
+## December 2017
 
-##Description
+## Description
 
-###What is Bluestreak??
+### What is Bluestreak??
 
 *Bluestreak is "or at least will be" a Dot.net library one can utilise in order to fetch cryptocurrency market data in the UI of his/hers favourite CAD visual programing interface. Bluestreak is at the moment targeting the API of https://coinmarketcap.com/ and yields market data as JSON format.*
 
-###Who?
+### Who?
 
 *BlueStreak was initiated by Marios TSiliakos, along with Tarek Hassan and Fillipos Fillipidis.
 It's still a WIP so be patience until we get the first release out.*
 
-###Why?
+### Why?
 
 *Because we love Cryprocurrencies*
 
-###What is a BlueStreak??
+### What is a BlueStreak??
 
 *The bluestreak cleaner wrasse, Labroides dimidiatus, is one of several species of cleaner wrasses found on coral reefs from Eastern Africa and the Red Sea to French Polynesia. Like other cleaner wrasses, it eats parasites and dead tissue off larger fishes' skin in a mutualistic relationship that provides food and protection for the wrasse, and considerable health benefits for the other fishes.
 source : https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse
 We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) system and the synergetic behaviour it exhibits.*
 
 
-##BleuStreak Components
+## BleuStreak Components
 
 **1. BlueStreakCore**
 
@@ -35,12 +35,12 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 
 *To DO:*
 
- 1.First item in the ToDO list
- 2.
- 3.
- 4.
- 5.
- 6.
+ 1. First item in the ToDO list
+ 2. ...
+ 3. ...
+ 4. ...
+ 5. ...
+ 6. ...
 
 
 
@@ -55,7 +55,7 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 
 *To DO:*
 
- 1.First item in the ToDO list
+ 1. First item in the ToDO list
  2.
  3.
  4.
@@ -72,7 +72,7 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 
 *To DO:*
 
- 1.First item in the ToDO list
+ 1. First item in the ToDO list
  2.
  3.
  4.
