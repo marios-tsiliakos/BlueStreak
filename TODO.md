@@ -29,8 +29,11 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 **1. BlueStreakCore**
 
 *///Summary///
+
 ///A Dot.net library - Contains all the methods and data types that can other .net libraries can wrap around.
+
 ///It handles all the communication and data fetching and management from the coinmarketcap API.
+
 ///Summary*
 
 *To DO:*
@@ -49,8 +52,11 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 **2. BlueStreakGH**
 
 *///Summary///
+
 ///A wrapper around the BlueStreakCore library
+
 ///It provides the necessary UI inteface to visualise the cryptocurrency markets within GH.
+
 ///Summary*
 
 *To DO:*
@@ -66,8 +72,11 @@ We chose Bluestreak as analogy of the ![proof-of-work](https://en.wikipedia.org/
 **3. BlueStreakDynamo**
 
 *///Summary///
+
 ///A wrapper around the BlueStreakCore library
+
 ///It provides the necessary UI inteface to visualise the cryptocurrency markets within DynamoBIM.
+
 ///Summary*
 
 *To DO:*
