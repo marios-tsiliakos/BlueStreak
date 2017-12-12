@@ -51,8 +51,10 @@ It handles all the communication and data fetching and management from the coinm
 **2. BlueStreakGH**
 
 *Summary*
+
 A wrapper around the BlueStreakCore library.
 It provides the necessary UI inteface to visualise the cryptocurrency markets within GH.
+
 *SummaryEnd*
 
 *To DO:*
