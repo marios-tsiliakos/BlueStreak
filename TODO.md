@@ -10,7 +10,7 @@
 
 ### Who?
 
-*BlueStreak was initiated by Marios TSiliakos, along with Tarek Hassan and Fillipos Fillipidis.
+*BlueStreak was initiated by Marios Tsiliakos, along with Tarek Hassan and Fillipos Fillipidis.
 It's still a WIP so be patience until we get the first release out.*
 
 ### Why?
