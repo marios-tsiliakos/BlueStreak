@@ -10,7 +10,11 @@
 
 ### Who?
 
+<<<<<<< HEAD
 *BlueStreak was initiated by Marios TSiliakos, along with Tarek Hassan and Filippos Filippidis.
+=======
+*BlueStreak was initiated by Marios Tsiliakos, along with Tarek Hassan and Fillipos Fillipidis.
+>>>>>>> upstream/master
 It's still a WIP so be patience until we get the first release out.*
 
 ### Why?
@@ -37,12 +41,13 @@ It handles all the communication and data fetching and management from the coinm
 
 *To DO:*
 
- 1. First item in the ToDO list
- 2. ...
- 3. ...
- 4. ...
- 5. ...
- 6. ...
+ 1. Set up BlueStreakCore Namespace and Base Class
+ 2. Create "QueryUrl" method
+ 3. Create "JsonSortData" Class and methods
+ 4. Create "OpenUrl" method
+ 5. Create "BlueStreakMath" Class
+ 6. Create "BlueStreakAlerts" method
+ 7.
 
 
 
