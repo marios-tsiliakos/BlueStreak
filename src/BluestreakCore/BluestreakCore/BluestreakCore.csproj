@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="BluestreakWeb.cs" />
     <Compile Include="BluestreakMath.cs" />
+    <Compile Include="BluestreakJson.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

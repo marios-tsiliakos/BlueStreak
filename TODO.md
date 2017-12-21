@@ -10,7 +10,11 @@
 
 ### Who?
 
+<<<<<<< HEAD
+*BlueStreak was initiated by Marios TSiliakos, along with Tarek Hassan and Filippos Filippidis.
+=======
 *BlueStreak was initiated by Marios Tsiliakos, along with Tarek Hassan and Fillipos Fillipidis.
+>>>>>>> upstream/master
 It's still a WIP so be patience until we get the first release out.*
 
 ### Why?

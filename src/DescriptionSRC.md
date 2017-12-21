@@ -1,4 +1,4 @@
 # README
-## BleuStreak Source Code
+## BlueStreak Source Code
 
-*Includes the .NET library reference and the VS projects for the GH and DynamoBIM add-ons* 
+*Includes the .NET library reference and the VS projects for the GH and DynamoBIM add-ons*

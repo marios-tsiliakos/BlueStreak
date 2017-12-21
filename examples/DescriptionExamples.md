@@ -1,4 +1,4 @@
 # README
-## BleuStreak Examples
+## BlueStreak Examples
 
-*Includes simple examples for using Bluestreak within GH and DynamoBIM* 
+*Includes simple examples for using BlueStreak within GH and DynamoBIM* 

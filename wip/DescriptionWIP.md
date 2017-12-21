@@ -1,4 +1,4 @@
 # README
-## BleuStreak WIP
+## BlueStreak WIP
 
-*Contains all the WIP experiments with APIS, sheduling solution, UI etc etc / Unsorted Files*
+*Contains all the WIP experiments with APIS, scheduling solution, UI etc etc / Unsorted Files*

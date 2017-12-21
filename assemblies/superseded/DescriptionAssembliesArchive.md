@@ -1,4 +1,4 @@
 # README
-## BleuStreak Assemblies Archive
+## BlueStreak Assemblies Archive
 
-*Includes pre-compiled assemblies of the Bluestreak Sourcecode and Add-on projects* 
+*Includes pre-compiled assemblies of the BlueStreak Sourcecode and Add-on projects* 
